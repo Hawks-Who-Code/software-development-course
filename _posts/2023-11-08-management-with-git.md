@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Management and Collaboration with Git and Github
-date: 2023-11-8
+date: 2023-11-08
 tags: general-skills
 ---
 
