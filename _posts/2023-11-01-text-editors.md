@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Development Environment Pt. 1 - Text Editors"
+title:  The Development Environment Pt. 1 - Text Editors
 date:   2023-11-01
 categories: general-skills the-development-environment
 ---
