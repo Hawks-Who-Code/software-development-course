@@ -1,8 +1,13 @@
-# The Development Environment Pt. 1 - Text Editors
+---
+layout: post
+title:  "The Development Environment Pt. 1 - Text Editors"
+date:   2023-11-01
+categories: general-skills the-development-environment
+---
 
-## Introduction
+# Introduction
 
-### Where do we code?
+Where do we code?
 
 - CodeHS
 - Code.org
@@ -26,7 +31,7 @@ Common text editors and IDEs
 
 We will mostly be using VS Code because it is the most common text editor, it supports almost every language, and is overall just nice
 
-## Installation
+# Installation
 
 The process really is just looking up the files to install and following the instructions.
 
@@ -35,7 +40,7 @@ The process really is just looking up the files to install and following the ins
 - Nodejs and NPM can be installed at https://nodejs.org/en but it requires admin--you should not install on the school computers
 - Java is a bit weirder since there are a lot of different ways to go about it. The simplest way is going to the Java downloads page from Oracle here https://www.oracle.com/java/technologies/downloads/
 
-## Trying out VS Code
+# Trying out VS Code
 
 Opening files
 
@@ -60,6 +65,6 @@ The command palette
 - Lots of stuff you might want to do can be done through the command palette
 - Often faster than clicking through to find certain options
 
-## What to do next
+# What to do next
 
 Homework: try installing VS Code on your home computer and the compilers/interpreters for the languages you want. Install themes to make it look nice.
