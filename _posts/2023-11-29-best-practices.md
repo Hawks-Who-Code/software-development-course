@@ -5,8 +5,13 @@ date: 2023-11-29
 tags: general-skills
 ---
 
-`"If you make something up, make sure to stick with it" - Asher`
-`"You can break laws… you’ll just face consequences" - Jakob`
+```
+"If you make something up, make sure to stick with it" - Asher
+```
+
+```
+"You can break laws… you’ll just face consequences" - Jakob
+```
 
 # Communicating
 
@@ -18,13 +23,13 @@ When you are working on a short project alone, however, you can disregard most o
 
 # Comments
 
-## Casual commenting
+## Casual Commenting
 
 Generally speaking, comments are meant to (1) explain what is not intuitive or difficult to understand and (2) warn of any oddities to watch for (3) provide structure for layout and if something needs to be filled in.
 
 Beware of overcommenting. If what a function does is simple and short, there is no need to comment.
 
-## (More) professional commenting
+## (More) Professional Commenting
 
 Most major coding languages have API documentation generators that create documentation from comments. All of them have slightly different syntax for taking comments and generating documentation.
 
@@ -54,9 +59,7 @@ One of the most important aspects of managing variables is getting rid of them. 
 
 Let’s say we are coding in Javascript and need to return the nth value in the fibonacci sequence. We need a variable to store the current value in the sequence, which we will be naming here. The declaration will look like this:
 
-`var currentFibonacciNumber = 1;`
-or
-`var currNum = 1;`
+`var currentFibonacciNumber = 1;` or `var currNum = 1;`
 
 Since this is not a function and we will be changing the variable in Javascript, we will be using lowerCamelCase.
 
